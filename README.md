@@ -1,5 +1,5 @@
-# monkeyspecies
-Using pretrained CNN models to classify 10 monkey species, as found on Kaggle 
+# Classifying Monkey Species using pretrained models. 
+Some code for a pretrained CNN models to classify 10 monkey species, as found on Kaggle 
 The link to that data and project is https://www.kaggle.com/slothkong/10-monkey-species 
 In addition to the data provided for training and validation, I used googliser.sh,
 a bash script, for downloading images from google images, which I then used to create 
